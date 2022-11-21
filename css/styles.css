@@ -574,11 +574,29 @@ section .button button:hover {
   flex-wrap: wrap;
   justify-content: space-between;
 }
-
+.projects img{
+  width: 350px;
+  height: 200px;
+}
 .projetcs .topic {
   color: black;
 }
+.proj-img{
+  margin: 10px 0;
 
+}
+.projects a{
+  display: block;
+  
+}
+.projects .links{
+     display: flex;
+     justify-content: space-around;
+}
+.para{
+  height: 70px;
+  
+}
 .projects .boxes .box {
   margin: 20px 0;
   width: calc(100% / 3 - 20px);
@@ -870,6 +888,25 @@ footer .text span a {
 .social-icons {
   padding: 2px 10px;
 }
+
+.social-icons-bottom{
+  padding: 20px 30px;
+}
+
+.social-icons-bottom a{
+  margin: 0px 6px;
+  color: black;
+  font-size: 18px;
+}
+
+.social-icons-bottom .git:hover {
+  color: gray;
+}
+
+.social-icons-bottom .link:hover {
+  color: #1260A2;
+}
+
 
 footer .social-icons a {
   color: white;
