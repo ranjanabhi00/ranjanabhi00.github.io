@@ -1,2 +1,2 @@
 # Portfolio.
-A Fully Redesigned website of Suryakant Thakur.
+Website by Abhishek Ranjan.
